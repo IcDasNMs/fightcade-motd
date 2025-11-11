@@ -1416,6 +1416,14 @@
     {
       "gameid": "flycast_vtennis",
       "motd": "New Discord: https://discord.gg/ypwNFfjM7A\n"
+    },
+    {
+      "gameid": "snes_dbzbuto2",
+      "motd": "Turbo Mode: Hold L OR R on controller 2 when starting the game, while Goku speaks on the dark screen.\nSuper Turbo Mode: Hold L AND R on controller 2 when starting the game, while Goku speaks on the dark screen.\nUnlock Goku and Broly: Press up, X, down, B, L, Y, R, A on the screen where Gohan is flying towards the temple.\n\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GMMSe9XVE0Te88IX-BFMZzD\n"
+    },
+    {
+      "gameid": "snes_dbzbuto2ja",
+      "motd": "Turbo Mode: Hold L OR R on controller 2 when starting the game, while Goku speaks on the dark screen.\nSuper Turbo Mode: Hold L AND R on controller 2 when starting the game, while Goku speaks on the dark screen.\nUnlock Goku and Broly: Press up, X, down, B, L, Y, R, A on the screen where Gohan is flying towards the temple.\n\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GMMSe9XVE0Te88IX-BFMZzD\n"
     }
   ]
 }
