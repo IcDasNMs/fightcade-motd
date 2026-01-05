@@ -211,7 +211,7 @@
     },
     {
       "gameid": "samsh5sp",
-      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nLiga SamSho 5 Special (Dojo eSports): https://discord.gg/4K6bATSsWP\nDance of the Toad King - Discord Community & Events: https://discord.gg/RYatfAXHxy\n"
+      "motd": "Wiki: https://wiki.gbl.gg/w/Samurai_Shodown_V_Special\nDiscord: https://discord.gg/bBs4TAr\nBrazilian Discord: https://discord.io/specialshodown\nLatam Discord: https://discord.gg/HFmcPxTJNg\nDance of the Toad King - Discord Community & Events: https://discord.gg/RYatfAXHxy\n"
     },
     {
       "gameid": "samsho",
@@ -587,7 +587,7 @@
     },
     {
       "gameid": "lastbld2",
-      "motd": "Wiki: https://dreamcancel.com/wiki/The_Last_Blade_2\nDiscord: https://discord.gg/c2ZTKtTuVE\nGuide(한글): https://zyclant.tistory.com/\n"
+      "motd": "Wiki: https://dreamcancel.com/wiki/The_Last_Blade_2\nDiscord: https://discord.gg/c2ZTKtTuVE\nGuide(\ud55c\uae00): https://zyclant.tistory.com/\nVideo Beginner Guide: https://youtu.be/DAWasqqzuZ4?si=pq_yyijp0r8w0NA8\n"
     },
     {
       "gameid": "wakuwak7",
@@ -711,15 +711,15 @@
     },
     {
       "gameid": "xmvsf",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNy0g6a6_lIL2g2fdKgiX-4\n"
     },
     {
       "gameid": "xmvsfu",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNy0g6a6_lIL2g2fdKgiX-4\n"
     },
     {
       "gameid": "xmvsfjr3",
-      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\n"
+      "motd": "Wiki: https://wiki.supercombo.gg/w/X-Men_vs_Street_Fighter\nMoves: https://strategywiki.org/wiki/X-Men_vs._Street_Fighter/Moves\nDiscord: https://discord.gg/hGJk6bvG8t\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNy0g6a6_lIL2g2fdKgiX-4\n"
     },
     {
       "gameid": "ninjamas",
@@ -727,7 +727,7 @@
     },
     {
       "gameid": "wh1",
-      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\nWorld Heroes + Aggressors of Dark Kombat: https://discord.gg/thetYH4XCs\n"
+      "motd": "World Heroes + ADK Games Discord: https://discord.gg/QeEC68jRme\nWorld Heroes + Aggressors of Dark Kombat: https://discord.gg/thetYH4XCs\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNAoJtXV3fxYiD0WCTvlwIh\n"
     },
     {
       "gameid": "wh2",
@@ -1424,6 +1424,10 @@
     {
       "gameid": "snes_dbzbuto2ja",
       "motd": "Turbo Mode: Hold L OR R on controller 2 when starting the game, while Goku speaks on the dark screen.\nSuper Turbo Mode: Hold L AND R on controller 2 when starting the game, while Goku speaks on the dark screen.\nUnlock Goku and Broly: Press up, X, down, B, L, Y, R, A on the screen where Gohan is flying towards the temple.\n\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GMMSe9XVE0Te88IX-BFMZzD\n"
+    },
+    {
+      "gameid": "kchampvs",
+      "motd": "Discord: https://discord.gg/CN9NVGGgJz\n"
     }
   ]
 }
