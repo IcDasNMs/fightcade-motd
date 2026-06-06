@@ -139,7 +139,7 @@
     },
     {
       "gameid": "vsavj",
-      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Vampire_Savior\nSeesaa Wiki: https://seesaawiki.jp/vswiki\nInternational Discord: https://discord.gg/5fwSewN33p\nFrench Discord: https://discord.gg/N6TGH6p\nJapanese Discord: https://discord.gg/AYxPt9P\nBrazilian Discord: https://discord.gg/YGBrAnbvRw\nLatam + España Discord: https://discord.gg/cFcG4rpTak\nRussian and CIS Discord: https://discord.gg/VJbNSxXXH5\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNl6kZ2L4IBDpg7hS2UhobC\nTraining Mode: https://github.com/BornPosthumous/VSAV_Training\n"
+      "motd": "Mizuumi Wiki: https://wiki.gbl.gg/w/Vampire_Savior\nSeesaa Wiki: https://seesaawiki.jp/vswiki\nInternational Discord: https://discord.gg/5fwSewN33p\nFrench Discord: https://discord.gg/N6TGH6p\nJapanese Discord: https://discord.gg/AYxPt9P\nBrazilian Discord: https://discord.gg/YGBrAnbvRw\nLatam + España Discord: https://discord.gg/cFcG4rpTak\nRussian and CIS Discord: https://discord.gg/VJbNSxXXH5\nAsia Discord: https://discord.gg/qRvz5jkWeT\nThe Haunted Arcade: https://discord.gg/UCAbRXPMvr\nMove List Showcase: https://www.youtube.com/playlist?list=PLOO2o6Kew2GNl6kZ2L4IBDpg7hS2UhobC\nTraining Mode: https://github.com/BornPosthumous/VSAV_Training\n"
     },
     {
       "gameid": "vampjbh",
@@ -223,7 +223,7 @@
     },
     {
       "gameid": "samsho2pe",
-      "motd": "*Latest version: 2.6 (2026-05-16)*\n"
+      "motd": "*Latest version: 2.7 (2026-05-28)*\nROM + custom exe: https://sf2mix.github.io/samsho2pe.html\n"
     },
     {
       "gameid": "samsho3",
@@ -1103,7 +1103,7 @@
     },
     {
       "gameid": "naname",
-      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nWarning: Win counter works only when *3-rounds* is set!\nMake sure you and your opponent have configured DIPswitches before starting a match.\n"
+      "motd": "*Community Discords:*\nPuzzle Wednesday: https://discord.gg/KEyvGwbDCc\n\n\nWarning: Before start a ranked game, check if game is configured to *3-rounds set*. Go to *\"Input\"*, select *\"Map game inputs\"*, and change Dip 2 to 0xEF.\nMake sure you and your opponent have configured this option before starting a match.\n"
     },
     {
       "gameid": "toryumon",
