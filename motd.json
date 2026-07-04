@@ -223,7 +223,7 @@
     },
     {
       "gameid": "samsho2pe",
-      "motd": "*Latest version: 2.8 (2026-06-20)*\nHack changelog and movelist: https://sf2mix.github.io/samsho2pe.html\n"
+      "motd": "*Latest version: 2.9 (2026-06-29)*\nHack changelog and movelist: https://sf2mix.github.io/samsho2pe.html\n"
     },
     {
       "gameid": "samsho3",
@@ -1387,7 +1387,7 @@
     },
     {
       "gameid": "flycast_fotns",
-      "motd": "Wiki (EN): http://wiki.shoryuken.com/Hokuto_no_Ken\nWiki (DE): https://wiki.hardedge.org/wiki/Hokuto_No_Ken_(Fist_Of_The_North_Star)\nDiscord: https://discord.gg/q3EzrAp\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\n2021-10-14: New free play savestate loaded. If you have an old savestate, delete existing data\\fotns.state.net file to download a new one on match start.\n"
+      "motd": "SuperCombo Wiki: https://wiki.supercombo.gg/w/Hokuto_no_Ken\nWiki (DE): https://wiki.hardedge.org/wiki/Hokuto_No_Ken_(Fist_Of_The_North_Star)\nDustloop Wiki: https://www.dustloop.com/w/HNK\nDiscord: https://discord.gg/q3EzrAp\n\nFor common issues, check out the current FAQ: https://rentry.co/fightcade-flycast-day-1\n\n2021-10-14: New free play savestate loaded. If you have an old savestate, delete existing data\\fotns.state.net file to download a new one on match start.\n"
     },
     {
       "gameid": "nes_pentablocat",
